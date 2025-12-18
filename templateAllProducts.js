@@ -10,7 +10,7 @@ const templateAllProducts = (products) => {
         <body>
             <nav>
                 <a href="/">Home</a>
-                <a href="/electronics">Electrónica</a>
+                <a href="/electronica">Electrónica</a>
                 <a href="/ropa">Ropa</a>
                 <a href="/hogar">Hogar</a>
                 <a href="/productos">Productos</a>
